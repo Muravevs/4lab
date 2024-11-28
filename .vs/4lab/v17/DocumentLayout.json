@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\9lab\\4lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC61907-E280-4466-891F-7F0486AE6590}|4lab.pyproj|D:\\9lab\\4lab\\_4lab\\settings.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FDC61907-E280-4466-891F-7F0486AE6590}|4lab.pyproj|solutionrelative:_4lab\\settings.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC61907-E280-4466-891F-7F0486AE6590}|4lab.pyproj|D:\\9lab\\4lab\\_4lab\\__init__.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FDC61907-E280-4466-891F-7F0486AE6590}|4lab.pyproj|solutionrelative:_4lab\\__init__.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "settings.py",
+              "DocumentMoniker": "D:\\9lab\\4lab\\_4lab\\settings.py",
+              "RelativeDocumentMoniker": "_4lab\\settings.py",
+              "ToolTip": "D:\\9lab\\4lab\\_4lab\\settings.py",
+              "RelativeToolTip": "_4lab\\settings.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-11-28T10:41:09.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "__init__.py (_4lab)",
+              "DocumentMoniker": "D:\\9lab\\4lab\\_4lab\\__init__.py",
+              "RelativeDocumentMoniker": "_4lab\\__init__.py",
+              "ToolTip": "D:\\9lab\\4lab\\_4lab\\__init__.py",
+              "RelativeToolTip": "_4lab\\__init__.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-11-28T10:40:15.805Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

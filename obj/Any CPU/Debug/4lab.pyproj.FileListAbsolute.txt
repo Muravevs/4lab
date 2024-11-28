@@ -1,0 +1,3 @@
+D:\muravev\4lab\obj\Any CPU\Debug\4lab.pyproj.CoreCompileInputs.cache
+D:\4lab\obj\Any CPU\Debug\4lab.pyproj.CoreCompileInputs.cache
+D:\0434-04\muravev\4lab\obj\Any CPU\Debug\4lab.pyproj.CoreCompileInputs.cache
